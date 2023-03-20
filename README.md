@@ -4,5 +4,5 @@ A Análise de Regressão Multivariada se refere a todas as técnicas que analisa
 
 Dados multivariados surgem quando se medem várias variáveis para cada observação na amostra. A maioria dos conjuntos de dados coletados por pesquisadores em todas as áreas da ciência são multivariados (JOHNSON; WICHERN (1992)).
 
-Bibliografia:
+## Bibliografia:
 - Dua, D. e Graff, C. (2019). Repositório de aprendizado de máquina da [UCI](http://archive.ics.uci.edu/ml). Irvine, CA: Universidade da Califórnia, Escola de Informação e Ciência da Computação.
