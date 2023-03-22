@@ -1,6 +1,6 @@
-# Análise de Regressão Multivariada
+# Regressão Linear Multivariada
 
-A **Análise de Regressão Multivariada** se refere a todas as técnicas que analisam simultaneamente múltiplas medidas de indivíduos ou objetos sob investigação. Assim, quaisquer análises simultâneas de mais do que duas variáveis pode ser considerada uma *análise multivariada* (HAIR JR et al. (2014)).
+A **Análise Multivariada** se refere a todas as técnicas que analisam simultaneamente múltiplas medidas de indivíduos ou objetos sob investigação. Assim, quaisquer análises simultâneas de mais do que duas variáveis pode ser considerada uma *análise multivariada* (HAIR JR et al. (2014)).
 
 Dados multivariados surgem quando se medem várias variáveis para cada observação na amostra. A maioria dos conjuntos de dados coletados por pesquisadores em todas as áreas da ciência são multivariados (JOHNSON; WICHERN (1992)).
 
